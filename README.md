@@ -7,6 +7,7 @@ Directory structure:
 3. Dockerfile - A file that creates an image with application dependencies
 4. docker-compose.yml - A file that builds and runs containers with the application
 5. .dockerignore - A file that contains files and directories that are not needed inside the container
+6. templates - The directory contains frontend files
 
 To run the application you need to run a virtual machine or just have an Ubuntu Desktop 20.04 system installed. Сopy the file app-deploy.sh from the repository https://github.com/Mykola-Dziuba/dev-ubuntu in any of the directories. Open a command prompt, go to the directory with the file and run the command:
 
