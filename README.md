@@ -10,5 +10,6 @@ Directory structure:
 
 To run the application you need to run a virtual machine or just have an Ubuntu Desktop 20.04 system installed. Сopy the file app-deploy.sh from the repository https://github.com/Mykola-Dziuba/dev-ubuntu in any of the directories. Open a command prompt, go to the directory with the file and run the command:
 
-- sudo bash app-deploy.sh
-  The algorithm of the script is described in the comments inside app-deploy.sh
+sudo bash app-deploy.sh
+
+The algorithm of the script is described in the comments inside app-deploy.sh
