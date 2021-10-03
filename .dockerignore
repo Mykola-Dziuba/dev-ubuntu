@@ -3,3 +3,4 @@ Dockerfile
 docker-compose.yml
 .git
 app-deploy.sh
+install-docker.sh
