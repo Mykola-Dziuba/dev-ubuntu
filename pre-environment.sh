@@ -14,7 +14,7 @@ cd flask-app
 sudo kill 2460
 
 #Download app files from git and go to the directory
-sudo apt-get inatall git -y
+sudo apt-get install git -y
 git init 
 git clone https://github.com/Mykola-Dziuba/dev-ubuntu.git
 
