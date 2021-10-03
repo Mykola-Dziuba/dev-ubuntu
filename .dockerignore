@@ -1,0 +1,6 @@
+README.md
+Dockerfile
+docker-compose.yml
+.git
+pre-environment.sh
+app-deploy.sh
